@@ -1,6 +1,6 @@
 ## Ola, I am Ramanson Thapa
 
-### &nbsp;My Profile
+### 👨‍💻 &nbsp;My Profile
 
 - 🎓 &nbsp; Studying  Bachlors of Data Engineering in TAFE,Australia 
 - 📖 &nbsp; Learning more about Entrepreneurship, Machine Learning, Automations, Data Structure and Algorithms.
