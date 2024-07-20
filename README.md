@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ramanson-thapa-b363b4266/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-Ramanson_Thapa-blue"></a>
-<a href="https://x.com/romanson2248"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Ramanson_Thapa__ul-blue"></a>
+<a href="https://x.com/romanson2248"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Ramanson_Thapa-blue"></a>
 </p>
 
 
