@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Studying  Bachlors of Data Engineering in TAFE, Australia. 
 - 📖 &nbsp; Learning more about Entrepreneurship, Machine Learning, Automations, Data Structure and Algorithms.
 - ⚡️ &nbsp; Fun fact: I play chess whenever there is bug in my code .
-- 🧩 &nbsp; I am open to any fun collabaration and learning opportunities
+- 🧩 &nbsp; I am open to any fun collabaration and learning opportunities.
 ---
 
 
@@ -15,8 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)  
+  ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)  
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-336791?style=flat&logo=SQLite)   
@@ -25,3 +24,22 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
 ---
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/RAMAN817">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RAMAN817&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RAMAN817&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
+---
+
+### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ramanson-thapa-b363b4266/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://x.com/romanson2248"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+</p>
