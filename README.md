@@ -40,6 +40,6 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ramanson-thapa-b363b4266/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://x.com/romanson2248"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+<a href="https://www.linkedin.com/in/ramanson-thapa-b363b4266/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-ramanson-thapa-blue"></a>
+<a href="https://x.com/romanson2248"><img alt="Twitter" src="https://img.shields.io/badge/twitter-ramanson-thapa__ul-blue"></a>
 </p>
