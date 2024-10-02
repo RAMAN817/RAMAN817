@@ -1,4 +1,4 @@
-## Ola, I am Ramanson Thapa
+## Hello, I am Ramanson Thapa
 
 ### 👨‍💻 &nbsp;My Profile
 
