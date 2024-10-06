@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying  Bachlors of Data Engineering in TAFE, Australia. 
 - 📖 &nbsp; Learning more about Entrepreneurship, Machine Learning, Automations, Data Structure and Algorithms.
-- ♟️ &nbsp; I play chess whenever there is bug in my code .
+- ♟️ &nbsp; I play chess .
 - 🧩 &nbsp; I am open to any collabaration and learning opportunities.
 ---
 
